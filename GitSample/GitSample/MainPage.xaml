@@ -16,6 +16,6 @@
                 Margin="10, 5, 10, 10"
                 Clicked="btnLogin_Clicked"/>
         
-    </StackLayout>
+    </StackLayout>//test
 
 </ContentPage>
